@@ -1,6 +1,6 @@
 # wayset
 Enable LED backlight keyboard in Wayland
-#Installation
+# Installation
 activate script install.sh
-#Uninstall
+# Uninstall
 activate script uninstall.sh
